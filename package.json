@@ -1,6 +1,6 @@
 {
-  "name": "sathyahari9.github.io",
-  "homepage": "http://sathyahari9.github.io/",
+  "name": "sathyahari.me",
+  "homepage": "http://sathyahari9.github.io/sathyahari.me",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -31,7 +31,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "yarn build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -53,12 +53,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathyahari9/sathyahari9.github.io.git"
+    "url": "git+https://github.com/sathyahari9/sathyahari9.me.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sathyahari9/sathyahari9.github.io/issues"
+    "url": "https://github.com/sathyahari9/sathyahari9.me/issues"
   }
 }

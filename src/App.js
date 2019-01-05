@@ -22,7 +22,7 @@ library.add(fab, faPaperPlane);
 class App extends Component {
   render() {
     return (
-      <Router basename="/sathyahari.me/">
+      <Router basename="process.env.PUBLIC_URL">
         <React.Fragment>
           <Menu></Menu>
             <Switch>

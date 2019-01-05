@@ -1,7 +1,7 @@
 {
   "main.css": "/sathyahari.me/static/css/main.141299a3.chunk.css",
-  "main.js": "/sathyahari.me/static/js/main.830085a4.chunk.js",
-  "main.js.map": "/sathyahari.me/static/js/main.830085a4.chunk.js.map",
+  "main.js": "/sathyahari.me/static/js/main.e9cb0a38.chunk.js",
+  "main.js.map": "/sathyahari.me/static/js/main.e9cb0a38.chunk.js.map",
   "static/js/1.63167289.chunk.js": "/sathyahari.me/static/js/1.63167289.chunk.js",
   "static/js/1.63167289.chunk.js.map": "/sathyahari.me/static/js/1.63167289.chunk.js.map",
   "runtime~main.js": "/sathyahari.me/static/js/runtime~main.2d382826.js",
@@ -12,6 +12,6 @@
   "static/media/logoshadow.png": "/sathyahari.me/static/media/logoshadow.e2c89903.png",
   "static/css/main.141299a3.chunk.css.map": "/sathyahari.me/static/css/main.141299a3.chunk.css.map",
   "index.html": "/sathyahari.me/index.html",
-  "precache-manifest.bc91dc643fa758633790ecc6ad658b04.js": "/sathyahari.me/precache-manifest.bc91dc643fa758633790ecc6ad658b04.js",
+  "precache-manifest.2dd972c3518bde75a45c823adfe19683.js": "/sathyahari.me/precache-manifest.2dd972c3518bde75a45c823adfe19683.js",
   "service-worker.js": "/sathyahari.me/service-worker.js"
 }

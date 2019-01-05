@@ -25,7 +25,7 @@ class Footer extends Component{
                     <a className="social" href="https://dribbble.com/sathyahari9"><FontAwesomeIcon icon={['fab', 'dribbble']} /></a>
                     </Grid>
                     <Grid item xs={12} sm={2} container spacing={12} style={flex}>
-                    <a className="lev" href="https://github.com/sathyahari9/sathyahari9.github.io">
+                    <a className="lev" href="https://github.com/sathyahari9/sathyahari.me">
                     View source
                     </a>
                     </Grid>

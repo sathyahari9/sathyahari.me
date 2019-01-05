@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat');
+@font-face {
+  font-family: 'Avenir';
+  src: url('./fonts/Avenir.ttc') format('truetype');
+}
 *{
   transition: all ease .4s;
   box-sizing: border-box;

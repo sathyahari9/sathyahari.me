@@ -22,20 +22,18 @@ library.add(fab, faPaperPlane);
 class App extends Component {
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
-        <React.Fragment>
-          <Menu></Menu>
-            <Switch>
-              <Route exact path="/" component={MainDiv}>
-              </Route>
-              <Route exact path="/projects" component={Projects}>
-              </Route>
-              <Route exact path="/contact" component={Contact}>
-              </Route>
-            </Switch>
-          <Footer></Footer>
-        </React.Fragment>
-      </Router>
+              <React.Fragment>
+                <Menu></Menu>
+                <Switch>
+                  <Route exact path="/" component={MainDiv}>
+                  </Route>
+                  <Route exact path="/projects" component={Projects}>
+                  </Route>
+                  <Route exact path="/contact" component={Contact}>
+                  </Route>
+                </Switch>
+                <Footer></Footer>
+              </React.Fragment>
     );
   }
 }

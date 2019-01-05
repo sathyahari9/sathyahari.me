@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/sathyahari.me/static/js/runtime~main.2d382826.js"
   },
   {
-    "revision": "0188ad7818b836f854e5",
-    "url": "/sathyahari.me/static/js/main.0188ad78.chunk.js"
+    "revision": "59aca2c3539ceb401a15",
+    "url": "/sathyahari.me/static/js/main.59aca2c3.chunk.js"
   },
   {
     "revision": "6316728995d3e3cf0cbd",
     "url": "/sathyahari.me/static/js/1.63167289.chunk.js"
   },
   {
-    "revision": "0188ad7818b836f854e5",
+    "revision": "59aca2c3539ceb401a15",
     "url": "/sathyahari.me/static/css/main.141299a3.chunk.css"
   },
   {
-    "revision": "a693fd854d63add277dca5f4ad035ed1",
+    "revision": "9714c8f1d4e8864b5aeeb1af0e181b79",
     "url": "/sathyahari.me/index.html"
   }
 ];

@@ -53,12 +53,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sathyahari9/sathyahari9.me.git"
+    "url": "git+https://github.com/sathyahari9/sathyahari.me.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sathyahari9/sathyahari9.me/issues"
+    "url": "https://github.com/sathyahari9/sathyahari.me/issues"
   }
 }

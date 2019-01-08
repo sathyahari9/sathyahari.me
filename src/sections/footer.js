@@ -21,7 +21,7 @@ class Footer extends Component{
                     <Grid item xs={12} sm={8} container spacing={12} style={flex}>
                     <a className="social" href="https://facebook.com/thesathyahari"><FontAwesomeIcon icon={['fab', 'facebook-f']} /></a>
                     <a className="social" href="https://github.com/sathyahari9"><FontAwesomeIcon icon={['fab', 'github']} /></a>
-                    <a className="social" href="https://linkedin.com/sathyahari9"><FontAwesomeIcon icon={['fab', 'linkedin-in']} /></a>
+                    <a className="social" href="https://linkedin.com/in/sathyahari9"><FontAwesomeIcon icon={['fab', 'linkedin-in']} /></a>
                     <a className="social" href="https://dribbble.com/sathyahari9"><FontAwesomeIcon icon={['fab', 'dribbble']} /></a>
                     </Grid>
                     <Grid item xs={12} sm={2} container spacing={12} style={flex}>

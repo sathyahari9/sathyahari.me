@@ -22,6 +22,7 @@ library.add(fab, faPaperPlane);
 class App extends Component {
   render() {
     return (
+            <Router>
               <React.Fragment>
                 <Menu></Menu>
                 <Switch>
@@ -34,6 +35,7 @@ class App extends Component {
                 </Switch>
                 <Footer></Footer>
               </React.Fragment>
+            </Router>
     );
   }
 }

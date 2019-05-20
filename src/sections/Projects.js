@@ -37,6 +37,31 @@ function Projects(props){
                     <Grid item xs={12} sm={6} container spacing={8} className={classes.pad}>
                         <div className="description">   
                             <h4>
+                            
+                            </h4>
+                            <p>
+                            In November 2018, I built a virtual piano in Python using libraries such as OpenCV and pyAudio. 
+                            The project registered key-presses based on color identification and played music. 
+                            The project also had a game-mode similar to "Guitar Hero".
+                            </p>
+                            <ButtonCus link="https://github.com/sathyahari9/sathyah_15112">
+                            </ButtonCus>
+                        </div>
+                    </Grid>
+
+                </Grid>
+                </Fade>
+                </div>
+                <div className="row">
+                {/* First row */}
+                <Fade>
+                <Grid container spacing={24}>
+                    <Grid item xs={12} sm={6} container spacing={8} className={classes.pad}>
+                            <Panel background="https://i.ibb.co/s5R10mt/opencv.png"></Panel>
+                    </Grid>
+                    <Grid item xs={12} sm={6} container spacing={8} className={classes.pad}>
+                        <div className="description">   
+                            <h4>
                             OpenCV piano
                             </h4>
                             <p>

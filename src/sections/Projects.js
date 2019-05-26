@@ -32,19 +32,19 @@ function Projects(props){
                 <Fade>
                 <Grid container spacing={24}>
                     <Grid item xs={12} sm={6} container spacing={8} className={classes.pad}>
-                            <Panel background="https://i.ibb.co/s5R10mt/opencv.png"></Panel>
+                            <Panel background="https://i.ibb.co/z8pqrrK/Main-screen-atm.png"></Panel>
                     </Grid>
                     <Grid item xs={12} sm={6} container spacing={8} className={classes.pad}>
                         <div className="description">   
                             <h4>
-                            
+                            Tellr
                             </h4>
                             <p>
-                            In November 2018, I built a virtual piano in Python using libraries such as OpenCV and pyAudio. 
-                            The project registered key-presses based on color identification and played music. 
-                            The project also had a game-mode similar to "Guitar Hero".
+                            In May 2019, I attended the Capital One Software Engineering Summit at Richmond, VA. The summit culminated in a hackathon 
+                            themed "Changing banking for good." My team and I created a banking app that promoted accessibility in banking by including voice control, and visual disability-friendly features 
+                            to simplify the atm banking process. The project was built using React Native.
                             </p>
-                            <ButtonCus link="https://github.com/sathyahari9/sathyah_15112">
+                            <ButtonCus link="https://github.com/DLo930/Tellr">
                             </ButtonCus>
                         </div>
                     </Grid>
